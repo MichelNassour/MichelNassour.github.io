@@ -1,0 +1,70 @@
+.text_download_info {
+    color: #fff;
+    font-size: 14px;
+    vertical-align: middle;
+}
+
+.text_download_info_big {
+    color: #fff;
+    margin-right: 6px;
+    font-size: 22px;
+    vertical-align: middle;
+}
+
+.text_download_info_your_version {
+    color: #ff74b4;
+    margin-right: 6px;
+    font-size: 12px;
+    vertical-align: middle;
+}
+
+ul li {
+    color: #fff;
+    font-size: 16px;
+}
+
+
+
+
+#btnToTop {
+    display: none;
+    position: fixed;
+    bottom: 12px;
+    right: 12px;
+    z-index: 99;
+    font-size: 18px;
+    border: none;
+    outline: none;
+    color: white;
+    cursor: pointer;
+    padding: 15px;
+    width: 70px;
+    border-radius: 4px;
+}
+
+
+.button_0 {
+    background-color: rgba(255, 255, 255, 0.20);
+    border: solid;
+    border-width: 1px;
+    border-color: #aaaaaa;
+    border-radius: 8px;
+    margin-top: 20px;
+    color: #ffffff;
+    padding: 8px 12px;
+    text-align: center;
+    cursor: pointer;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+    .button_0:hover {
+        background-color: #DB3069;
+    }
+
+    .button_0:focus {
+        outline: none;
+        box-shadow: none;
+        border-color: #aaaaaa;
+    }
