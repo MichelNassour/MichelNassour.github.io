@@ -313,9 +313,10 @@ html {
         .fh5co-features-outer .sm-6-content p {
             color: #111;
             font-weight: 500;
-            font-size: 14.5px;
+            font-size: 18px;
             line-height: 1.8em;
             width: 450px;
+            direction:rtl;
             text-align: right; /*new*/
         }
 
@@ -1433,4 +1434,3 @@ div.item_watch_download {
 }
 
 /*-----------------------------------------------------------------------*/
-
